@@ -9,7 +9,6 @@
   <a href="https://linkedin.com/in/yasminpolcaqui">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Open%20to-new%20opportunities-brightgreen?style=for-the-badge"/>
 </p>
 
 ---
@@ -31,6 +30,9 @@ I'm an early and active adopter of AI tools — not as a novelty, but as a real 
 | Tool | How I use it |
 |------|-------------|
 | **Claude (Anthropic)** | Daily work layer: automating research, building custom skills for recurring tasks, running multi-step agents |
+| **ChatGPT** | Quick queries, ideation and content drafting |
+| **Gemini** | Quick queries and Google Workspace integration |
+| **Nano Banana** | AI image generation for campaigns and activations |
 | **BigQuery** | Querying MercadoLibre's data lake for seller performance, Ads metrics, and P&L analysis |
 | **Power BI** | Tracking ROAS, CTR, GMV, conversion, and Fulfillment KPIs |
 | **RAGaaS** | Internal knowledge management: searchable, living documentation for my team |
@@ -48,9 +50,11 @@ I'm an early and active adopter of AI tools — not as a novelty, but as a real 
 - 🔗 Bridge between Product, Sales, and Sellers — translating roadmap into commercial programs
 
 ---
+
 ## 🗓️ Career snapshot
 
 ![Career Timeline](timeline.svg)
+
 ---
 
 ## 🌍 Languages
@@ -67,7 +71,9 @@ I'm an early and active adopter of AI tools — not as a novelty, but as a real 
 <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude%20(Anthropic)-D97706?style=flat-square&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/>
 </p>
