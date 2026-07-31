@@ -48,7 +48,6 @@ I'm an early and active adopter of AI tools — not as a novelty, but as a real 
 - 🔗 Bridge between Product, Sales, and Sellers — translating roadmap into commercial programs
 
 ---
-
 ## 🗓️ Career snapshot
 
 | Period | Company | Role |
