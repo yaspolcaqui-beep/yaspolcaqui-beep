@@ -50,15 +50,7 @@ I'm an early and active adopter of AI tools — not as a novelty, but as a real 
 ---
 ## 🗓️ Career snapshot
 
-| Period | Company | Role |
-|--------|---------|------|
-| 2018 | 3M Brazil | Product Marketing Intern |
-| 2019 | 3M Brazil | Lean Six Sigma Trainee |
-| 2020 | 3M Brazil | Marketing Trainee |
-| Jan 2021 – Mar 2022 | 3M Brazil | Marketing Specialist |
-| Mar 2022 – Jun 2024 | Amazon Brazil | Marketing Specialist |
-| Jun 2024 – Jun 2025 | Amazon Brazil | Marketing Manager |
-| Jun 2025 – present | MercadoLibre | Project Manager |
+![Career Timeline](timeline.svg)
 ---
 
 ## 🌍 Languages
